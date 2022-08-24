@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [elastic-ui](https://github.com/elastic/eui)
 
-- 💬 Ask me about **React, TypeScript, Vue, Java, AWS**
+- 💬 Ask me about **React, TypeScript, Vue, Java, AWS, Cloud Security**
 
 - 📫 How to reach me **shaktizala190@gmail.com**
 
