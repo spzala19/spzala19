@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spzala19&label=Profile%20views&color=0e75b6&style=flat" alt="spzala19" /> </p>
 
-- 🔭 I’m currently working on **Cloud Security (CIEM & CSPM)**
+- 🔭 I’m currently working on **Cloud Security (CSPM & CIEM)**
 
 - 🌱 I’m currently learning **design patterns and distributed system design**
 
