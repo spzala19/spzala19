@@ -91,13 +91,15 @@ Technical Lead with **5+ years of experience** designing and delivering scalable
 ###  📝 Open-Source Projects
 > *A collection of open-source frameworks, tools, and utilities I actively maintain and develop.*
 
-<p align="center">
-  <a href="https://github.com/spzala19">
-    <img src="https://github-readme-stats-git-masterrstw.vercel.app/api/pin/?username=spzala19&repo=rag-studio&theme=dark" alt="Generic RAG Pipeline" />
+<p align="left">
+  <a href="https://github.com/spzala19/rag-studio">
+    <img src="https://img.shields.io/badge/Open%20Source-AI%20RAG%20Studio-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="RAG Studio" />
   </a>
+<br/>
+  A low-code/no-code Retrieval-Augmented Generation framework supporting dynamic chunking, automated ingestion, and vector indexing, backed by an autonomous tester agent to evaluate LLM accuracy. Built with LangChain, LangGraph, and LangSmith.
 </p>
 
-* **Generic RAG Pipeline Framework:** A low-code/no-code Retrieval-Augmented Generation framework supporting dynamic chunking, automated ingestion, and vector indexing, backed by an autonomous tester agent to evaluate LLM accuracy. Built with LangChain, LangGraph, and LangSmith.
+
 
 *(More open-source repositories dropping soon!)*
 
