@@ -115,34 +115,108 @@ Technical Lead with **5+ years of experience** designing and delivering scalable
 
 ---
 
-### 💼 Client Projects & Enterprise Systems
+### Client Projects & Enterprise Systems
 > *Architected and delivered during tenure as Technical Lead for major global enterprises (Google, Comcast, Netskope, etc.).*
 
-#### Agent Weave — Multi-Agent AI Framework
-A scalable multi-agent orchestration framework built for production AI workflows. Features lifecycle management, coordination, execution tracking, and custom observability tracing dashboards.
-* **Stack:** Python, LangGraph, LangChain, Distributed Orchestration.
+<details>
+<summary><strong>Agent Weave — Multi-Agent AI Framework</strong></summary>
+<br>
+<blockquote><strong>Role:</strong> Technical Lead (GenAI Initiatives)</blockquote>
 
-#### MCP-based AI Chatbot for IT Operations
-An enterprise automation chatbot leveraging the **Model Context Protocol (MCP)** to integrate seamlessly with IT infrastructure workflows using agentic routing, real-time query handling, and reinforcement feedback loops.
-* **Stack:** Anthropic Claude API, MCP Server, Python.
+A scalable multi-agent orchestration framework engineered specifically for production-grade AI workflows.
+- **Core Implementation:** Developed framework-level agent lifecycle management, structured multi-agent coordination models, and detailed execution state tracking.
+- **Observability:** Built custom tracing and debugging dashboards to monitor real-time token usage, latency, and agent step-traversal.
+- **Architecture:** Designed an extensible plugin system allowing cross-functional engineering teams to seamlessly integrate custom AI workflows.
+- **Business Impact:** Successfully eliminated duplicated AI engineering efforts and established a standardized blueprint for rapid AI scaling.
 
-#### Netskope Security Platform (SASE)
-Built and scaled micro-frontend applications for a cloud-native security (SASE) platform using React and Module Federation, introducing modular architecture that optimized performance and maintainability.
-* **Stack:** React, Micro Frontends, Module Federation.
+* **Tech Stack:** <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/LangGraph-26A69A?style=flat-square" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Distributed%20Orchestration-E65100?style=flat-square" alt="Distributed Orchestration" />
+</details>
 
-#### Comcast Data Platform (Security & Compliance)
-Built full-stack features including RESTful APIs and React UI components, developing a rules engine and detection engine for high-volume security data processing using Python and PostgreSQL.
-* **Stack:** Python, React, PostgreSQL.
+<details>
+<summary><strong>MCP-based AI Chatbot for IT Operations</strong></summary>
+<br>
+<blockquote><strong>Role:</strong> Technical Lead</blockquote>
 
-#### Google Cloud Secret Rotation Framework
-An event-driven framework for automated cloud secret rotation built with a plugin-based architecture enabling extensible workflow orchestration using GCP Pub/Sub.
-* **Stack:** GCP Pub/Sub, Cloud-Native Services.
+An enterprise-ready automation chatbot leveraging the **Model Context Protocol (MCP)** to integrate disjointed infrastructure ecosystems directly into dynamic LLM runtimes.
+- **Core Implementation:** Engineered deterministic real-time query handling and complex state orchestration using advanced agentic routing techniques.
+- **Optimization:** Implemented closed-loop user feedback structures and reinforcement learning signals to continuously enhance LLM accuracy and safety barriers.
+- **Business Impact:** Automated high-volume, highly repetitive IT infrastructure workflows, significantly elevating day-to-day operational efficiency.
 
-#### Cloud Account Onboarding & Inventory Platform
-A multi-cloud platform designed to onboard cloud accounts and dynamically discover/scan infrastructure resources across AWS, GCP, and Azure.
-* **Stack:** Golang, React, TypeScript, Java, PostgreSQL, AWS.
+* **Tech Stack:** <img src="https://img.shields.io/badge/Anthropic%20Claude%20API-CC9900?style=flat-square" alt="Claude API" />
+  <img src="https://img.shields.io/badge/MCP%20Server-8E44AD?style=flat-square" alt="MCP" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-5C6BC0?style=flat-square" alt="Agentic AI" />
+</details>
+
+<details>
+<summary><strong>Netskope Security Platform (SASE)</strong></summary>
+<br>
+<blockquote><strong>Role:</strong> Technical Lead (Frontend Systems)</blockquote>
+
+Designed, scaled, and optimized high-security, cloud-native micro-frontend architectures for an enterprise SASE visibility platform.
+- **Core Implementation:** Architected modular decoupled sub-applications from scratch using Webpack Module Federation to ensure structural isolation and zero-downtime deployment pipelines.
+- **System Design:** Collaborated extensively with principal architects to implement and enforce a highly reusable, high-performance UI design token library.
+- **Business Impact:** Substantially improved overall web performance, slashed team code-dependency choke points, and maximized platform maintainability.
+
+* **Tech Stack:** <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Micro%20Frontends-FF9800?style=flat-square" alt="Micro Frontends" />
+  <img src="https://img.shields.io/badge/Module%20Federation-Modular-blue?style=flat-square" alt="Module Federation" />
+</details>
+
+<details>
+<summary><strong>Comcast Data Platform (Security & Compliance)</strong></summary>
+<br>
+<blockquote><strong>Role:</strong> Full-Stack Technical Lead</blockquote>
+
+An end-to-end data platform built to process and ingest massive arrays of infrastructure security compliance datasets.
+- **Core Implementation:** Designed and fine-tuned a custom rules-processing engine and vulnerability detection subsystem capable of handling high-volume operational throughput.
+- **Architecture:** Developed highly performant, resilient backend microservices utilizing decoupled relational schemas to support scalable telemetry queries.
+- **Interfaces:** Authored clean RESTful APIs paired with polished monitoring views to expose real-time compliance matrices.
+
+* **Tech Stack:** <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Microservices-4CAF50?style=flat-square" alt="Microservices" />
+</details>
+
+<details>
+<summary><strong>Google Cloud Secret Rotation Framework</strong></summary>
+<br>
+<blockquote><strong>Role:</strong> Backend / Cloud Infrastructure Architect</blockquote>
+
+An event-driven enterprise framework designed to manage and automatically cycle production cloud infrastructure credentials without human intervention.
+- **Core Implementation:** Leveraged an asynchronous pub/sub pattern to decouple event triggers from rotation executors safely.
+- **Architecture:** Formulated a highly robust, plugin-based architecture allowing teams across the organization to extend the orchestration loops to arbitrary target apps.
+- **Compliance:** Guaranteed zero credential-leaks by executing rotation logic entirely natively within secure Google Cloud environments.
+
+* **Tech Stack:** <img src="https://img.shields.io/badge/GCP%20Pub%2FSub-Telemetry-FFC107?style=flat-square" alt="GCP Pub/Sub" />
+  <img src="https://img.shields.io/badge/Cloud--Native-Automated-009688?style=flat-square" alt="Cloud-Native" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+</details>
+
+<details>
+<summary><strong>Cloud Account Onboarding & Inventory Platform</strong></summary>
+<br>
+<blockquote><strong>Role:</strong> Full-Stack Technical Lead</blockquote>
+
+A scalable multi-cloud asset management suite built to securely federate cloud accounts and dynamically track real-time security postures.
+- **Core Implementation:** Engineered a cloud-agnostic inventory processing engine that automatically connects to and crawls infrastructure patterns across AWS, GCP, and Azure.
+- **Workflow:** Developed resilient background pipelines to support asynchronous user-initiated onboarding streams side-by-side with scheduled system sync crons.
+- **Interfaces:** Authored real-time administrative telemetry charts to surface global asset postures and instant configuration insight discoveries.
+
+* **Tech Stack:** <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
+</details>
 
 ---
+
 
 ### 📜 Certifications & Courses
 * **Ultimate RAG Bootcamp Using LangChain, LangGraph & LangSmith** — *Udemy* | [Verify Credential: UC-0e8ad4dd-f40c-4264-ac53-a767b76298af](https://www.udemy.com/certificate/UC-0e8ad4dd-f40c-4264-ac53-a767b76298af/)
