@@ -93,7 +93,7 @@ Technical Lead with **5+ years of experience** designing and delivering scalable
 
 <p align="center">
   <a href="https://github.com/spzala19">
-    <img src="https://github-readme-stats-git-masterrstw.vercel.app/api/pin/?username=spzala19&repo=Generic-RAG-Pipeline&theme=dark" alt="Generic RAG Pipeline" />
+    <img src="https://github-readme-stats-git-masterrstw.vercel.app/api/pin/?username=spzala19&repo=rag-studio&theme=dark" alt="Generic RAG Pipeline" />
   </a>
 </p>
 
