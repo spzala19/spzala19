@@ -228,8 +228,8 @@ A scalable multi-cloud asset management suite built to securely federate cloud a
 ---
 
 ### 🏆 Achievements
-* **CAP Award (Crest Data Systems):** For leading GenAI initiatives and AI platform development.
-* **CAP Award (Crest Data Systems):** For solving complex engineering challenges and leading successful project delivery.
+* **CAP Award (Crest Data Systems) 2026:** For leading GenAI initiatives and AI platform development.
+* **CAP Award (Crest Data Systems) 2022:** For solving complex engineering challenges and leading successful project delivery.
 * **Winner, Smart India Hackathon 2020:** Awarded seed funding opportunity.
 * **Google Recognition:** Built an google home action called "Harry Potter Quiz" with 70,000+ monthly active interactions.
 
